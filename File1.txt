@@ -1,5 +1,5 @@
 Line1 123
-commit test
+commit test conflict
 Line2 456
 Line3 789.
 Line4 147
