@@ -1,4 +1,4 @@
-Line1 123
+Line1 123 Testing Line
 commit test conflict
 Line2 456
 Line3 789.
